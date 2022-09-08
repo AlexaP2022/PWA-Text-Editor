@@ -3,11 +3,11 @@
 ## Description:
 For this project, I created a progressive web application for a text editor (single page application) that runs in the browser and is also installable to your desktop to run off-line.  The user's entered text will also persisit on the screen  upon closing and subsequentlky opening the application.<br><br> Links to the deployed application as well as the github repository where the code is housed are below:<br>
 
-[Link to deployed web application](https://peaceful-sierra-50544.herokuapp.com/)<br>
+[Link to deployed web application](https://peaceful-sierra-50544.herokuapp.com/)<br><br>
 [Link to Github Repository](https://github.com/AlexaP2022/PWA-Text-Editor)<br><br>
-![Screenshot of Deployed Application on browser](./images/Screenshot1.png)<br>
-![Screenshot of installer confirmation](./images/Screenshot2%20-%20installation.png)<br>
-![Screenshot of installed application from the desktop](./images/Screenshot3%20-%20deployed%20desktop%20application.png)
+Deployed application in the brower<br>![Screenshot of Deployed Application on browser](./images/Screenshot1.png)<br><br>
+Installer confirmation <br>![Screenshot of installer confirmation](./images/Screenshot2%20-%20installation.png)<br><br>
+Installed application running from the desktop<br>![Screenshot of installed application from the desktop](./images/Screenshot3%20-%20deployed%20desktop%20application.png)
 <br>
 ## Table of Contents
 * [Installation](#installation)
